@@ -1,0 +1,16 @@
+.cache
+.vscode
+temp_db.json
+.env
+.eslintcache
+.terraform*
+terraform.tfstate*
+*.tfstate
+.venv
+node_modules
+
+.vertex_cf_auth_token
+dist
+venv/
+.DS_Store
+explore-assistant-training/looker.ini

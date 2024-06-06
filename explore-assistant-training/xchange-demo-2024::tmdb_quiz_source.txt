@@ -1,0 +1,25 @@
+
+  Dimensions Used to group by information:
+ name: tmdb_quiz_source.genres, type: string, description:  
+name: tmdb_quiz_source.id, type: number, description:  
+name: tmdb_quiz_source.keywords, type: string, description:  
+name: tmdb_quiz_source.overview, type: number, description:  
+name: tmdb_quiz_source.popularity, type: number, description:  
+name: tmdb_quiz_source.production_companies, type: string, description:  
+name: tmdb_quiz_source.release_date, type: date_date, description:  
+name: tmdb_quiz_source.release_month, type: date_month, description:  
+name: tmdb_quiz_source.release_quarter, type: date_quarter, description:  
+name: tmdb_quiz_source.release_raw, type: date_raw, description:  
+name: tmdb_quiz_source.release_week, type: date_week, description:  
+name: tmdb_quiz_source.release_year, type: date_year, description:  
+name: tmdb_quiz_source.revenue, type: number, description:  
+name: tmdb_quiz_source.runtime, type: number, description:  
+name: tmdb_quiz_source.spoken_languages, type: string, description:  
+name: tmdb_quiz_source.tagline, type: string, description:  
+name: tmdb_quiz_source.title, type: string, description:  
+name: tmdb_quiz_source.vote_average, type: number, description:  
+
+  Measures are used to perform calculations/aggregations (if top, bottom, total, sum, etc. are used include a measure):
+ name: tmdb_quiz_source.count, type: count, description:  
+
+  
